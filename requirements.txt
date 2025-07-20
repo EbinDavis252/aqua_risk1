@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlalchemy
+pymysql
+plotly
+joblib
+scikit-learn
+streamlit-authenticator
